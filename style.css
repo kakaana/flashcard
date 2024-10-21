@@ -1,6 +1,6 @@
 :root {
     --text-color:#0066ff;
-    --card-front-color:#ff0055d;
+    --card-front-color:#ff0055d8;
     --card-back-color:#00ffb3;
 }
 
@@ -12,7 +12,7 @@ body {
 
 #container {
     display: flex; 
-}d
+}dp
 
 .cartao {
     margin: 1rem 1rem;
