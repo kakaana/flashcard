@@ -12,12 +12,9 @@ criaCartao(
 
 criaCartao(
     'curiosidade',
-    'O que é o cancer?'
-
-    ' é o nome dado a um conjunto 
-    de mais de 100 doenças que
-     têm em comum o crescimento
-      desordenado de células'
+    'O que é o melão?'
+    'uma fruta'
+    
 )
 
 criaCartao(
