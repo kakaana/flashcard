@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'curiosidade',
+    'curiosidade'
     'O que é o melão?'
     'uma fruta'
     
