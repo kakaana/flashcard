@@ -1,5 +1,5 @@
 criaCartao(
-    'Geografia',
+    'Geografia'
     'qual é a capital do Brasil?'
     'a capital do Brasil é Brasilía'
 )
