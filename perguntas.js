@@ -11,9 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'portugues',
-    'O que é pneumoultramicroscópicoossilicovulcanoconiótico?',
-    'é a doença causada pela inspiração de cinzas vulcanicas'
+    'curiosidade',
+    'O que é o cancer?
+
+    ' é o nome dado a um conjunto 
+    de mais de 100 doenças que
+     têm em comum o crescimento
+      desordenado de células.'
 )
 
 criaCartao(
